@@ -35,3 +35,6 @@ build/
 ### static ###
 src/main/resources/static/
 
+###application###
+src/main/resources/application-dev.yml
+

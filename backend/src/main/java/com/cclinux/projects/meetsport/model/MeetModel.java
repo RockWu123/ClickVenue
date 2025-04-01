@@ -10,9 +10,6 @@ import lombok.EqualsAndHashCode;
 
 /**
  * @Notes: 活动实体
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/07/12 7:18
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Data

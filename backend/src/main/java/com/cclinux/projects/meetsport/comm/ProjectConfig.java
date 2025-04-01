@@ -1,10 +1,7 @@
 package com.cclinux.projects.meetsport.comm;
 
 /**
- * @Notes: 本项目配置文 件
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/8 17:32
- * @Ver: ccminicloud-framework 3.2.1
+ * @Notes: 本项目配置文 件1
  */
 
 

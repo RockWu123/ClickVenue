@@ -19,9 +19,6 @@ import java.util.Map;
 
 /**
  * @Notes: 文件上传逻辑
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/2/18 7:44
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Service("MeetSportPublicService")

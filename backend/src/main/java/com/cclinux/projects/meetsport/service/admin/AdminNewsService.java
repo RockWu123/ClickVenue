@@ -17,9 +17,6 @@ import java.util.Map;
 
 /**
  * @Notes: 资讯模块后台管理
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/2/16 9:35
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Service("MeetSportAdminNewsService")

@@ -10,9 +10,6 @@ import java.util.Date;
 
 /**
  * @Notes: 通用函数库
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/8 16:40
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 

@@ -30,9 +30,6 @@ import java.util.*;
 
 /**
  * @Notes: 活动业务逻辑
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/7/15 12:10
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 

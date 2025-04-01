@@ -17,8 +17,6 @@ import java.util.Map;
 
 /**
  * @Notes: 首页
- * @Author: cclinux0730 (weixin)
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Service("MeetSportHomeService")

@@ -22,9 +22,6 @@ import java.util.List;
 
 /**
  * @Notes: 活动模块业务逻辑
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/7 5:41
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Service("MeetSportTestService")

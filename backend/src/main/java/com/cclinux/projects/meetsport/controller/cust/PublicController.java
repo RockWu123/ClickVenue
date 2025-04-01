@@ -13,9 +13,6 @@ import javax.annotation.Resource;
 
 /**
  * @Notes: 常用模块
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/2/18 7:32
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @RestController("MeetSportPublicController")

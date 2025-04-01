@@ -12,9 +12,6 @@ import javax.annotation.Resource;
 
 /**
  * @Notes: 收藏业务逻辑
- * @Author: cclinux0730 (weixin)
- * @Date: 2024/11/28 16:12
- * @Ver: ccminicloud-framework 3.2.1
  */
 
 @Service("MeetSportFavService")
